@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3540" started-at="2019-05-02T14:59:53Z" finished-at="2019-05-02T14:59:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3540" started-at="2019-05-02T14:59:53Z" finished-at="2019-05-02T14:59:56Z">
+      <class name="restAPI.Basics.RestAssuredDemo">
+        <test-method status="PASS" signature="getCall()[pri:0, instance:restAPI.Basics.RestAssuredDemo@2eee9593]" name="getCall" duration-ms="3525" started-at="2019-05-02T20:29:53Z" finished-at="2019-05-02T20:29:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCall -->
+      </class> <!-- restAPI.Basics.RestAssuredDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
